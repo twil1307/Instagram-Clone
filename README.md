@@ -1,5 +1,5 @@
 ﻿# Instagram-Clone
-## v0.2
+## v0.0.1
 
 #### Description
 - A simple clone of Instagram include (create user, log in, post image, home page, view user homepage,...). However it is not 100% service completed like instagram.
